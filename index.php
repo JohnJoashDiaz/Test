@@ -9,10 +9,10 @@
 </head>
 <body>
     <h1> TEST </h1>
-    <form action="index.php" method = "POST">
+    <form action="submit.php" method = "POST">
     <input type = "text" name = "firstname" placeholder = "Firstname">
     <input type = "text" name = "lastname" placeholder = "Lastname">
-    <button type ="submit" name = "submit">SUBMIT</button>
+    <button type ="submit" name = "sub">SUBMIT</button>
     </form>
 </body>
 </html>
