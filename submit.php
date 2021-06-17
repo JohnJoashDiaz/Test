@@ -3,6 +3,8 @@
         $firstname = $_POST['firstname'];
         $lastname = $_POST['lastname'];
 
+        
         echo "First Name: " . $firstname . "<br>" . "Last Name: " . $lastname;  
     }
+    echo "<br>" . "Date: " . date('M/d/Y');
 ?>
