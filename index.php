@@ -15,5 +15,10 @@
     <input type = "text" name = "lastname" placeholder = "Lastname">
     <button type ="submit" name = "sub">SUBMIT</button>
     </form>
+    <div class = "date">
+    <?php
+        echo "<br>" . date('M. d Y');
+    ?>
+    </div>
 </body>
 </html>
