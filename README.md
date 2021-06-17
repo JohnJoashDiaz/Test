@@ -16,6 +16,3 @@ Learning task:
     
 To do: 
     -try using rollback and fork
-    
->>>>>>> f86040edae5e6593dcb77d4ed7c202d75bb67cdb
->>>>>>> origin
