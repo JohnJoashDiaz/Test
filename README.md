@@ -15,4 +15,6 @@ Learning task:
     Merge
 =======
     check if git pull will work
+
+    - merge
 >>>>>>> origin
