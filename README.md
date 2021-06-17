@@ -1,4 +1,5 @@
 # Test
+<<<<<<< HEAD
 
 Learning task:
 
@@ -12,3 +13,5 @@ Learning task:
     Fetch
     Clone
     Merge
+=======
+>>>>>>> origin
