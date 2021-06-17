@@ -3,16 +3,18 @@
 
 Learning task:
 
-    Add
-    Commit
-    Push
+    Add (done)
+    Commit (done)
+    Push (done)
     Rollback
-    Pull
+    Pull (done)
     Fork
-    Checkout
-    Fetch
-    Clone
-    Merge
-=======
-    check if git pull will work
+    Checkout (done)
+    Fetch (done)
+    Clone (done)
+    Merge (done)
+    
+To do: 
+    -try using rollback and fork
+    
 >>>>>>> origin
