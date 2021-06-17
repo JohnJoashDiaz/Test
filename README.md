@@ -14,4 +14,5 @@ Learning task:
     Clone
     Merge
 =======
+    check if git pull will work
 >>>>>>> origin
